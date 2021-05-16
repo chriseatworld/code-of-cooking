@@ -26,4 +26,4 @@
 - Cashew-Hefeflocken-mischung, Zitronenschalen und Ei in die Zitronensauce geben und durchrühren.
 - Nudeln und Spargel abgießen und zur Sauce hinzugeben und unter niedriger Hitze vermischen und mit Salz und Pfeffer abschmecken.
 
-![Zitrone-Parmesan-Spargel, Pasta](../assets/images/Zitrone-Parmesan-Spargel.jpeg)
+![Zitrone-Parmesan-Spargel](../assets/images/Zitrone-Parmesan-Spargel.jpeg)
