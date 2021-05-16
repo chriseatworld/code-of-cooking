@@ -1,6 +1,4 @@
-# Zitronen-Parmesan-Penne mit grünem Spargel
-
-![Zitrone-Parmesan-Spargel, Penne](../assets/images/Zitrone-Parmesan-Spargel.jpeg)
+# Zitronen-Parmesan-Paste mit grünem Spargel
 
 **Zutaten:**
 - 1 Knoblauchzehe
@@ -27,3 +25,5 @@
 - 3 Minuten vor Ende der Nudeln Spargel hinzugeben und 3 Minuten mit kochen.
 - Cashew-Hefeflocken-mischung, Zitronenschalen und Ei in die Zitronensauce geben und durchrühren.
 - Nudeln und Spargel abgießen und zur Sauce hinzugeben und unter niedriger Hitze vermischen und mit Salz und Pfeffer abschmecken.
+
+![Zitrone-Parmesan-Spargel, Pasta](../assets/images/Zitrone-Parmesan-Spargel.jpeg)
