@@ -9,7 +9,7 @@ English version will maybe follow soon TM.
 - Folge der Anleitung
 
 ## Mitmachen?
-Gerne! Einfach Repo klonen, Rezept erstellen und Merge Request erstellen.
+Gerne! Einfach anschreiben.
 
 **Markdown Syntax**
 https://www.markdownguide.org/basic-syntax/
