@@ -12,7 +12,7 @@
 - 50ml Hafermylch
 - Mixer
 
-### Anleitung
+### Zubereitung
 - Cashew Nüsse in warmes Wasser legen zum aufweichen
 - Ofen auf 180°C vorheizen.
 - Alles grob klein schneiden und mit dem Öl in eine Auflaufform geben.

@@ -15,7 +15,7 @@
 - (Zimt)
 
 
-### Anleitung
+### Zubereitung
 - Zwiebeln, Knoblauch klein schneiden und mit etwas Öl glasig anschwitzen.
 - Tomatenmark dazugeben.
 - Tomaten klein schneiden (Würfel)

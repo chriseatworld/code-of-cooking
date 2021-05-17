@@ -12,7 +12,7 @@
 - Eiersatz
 - Salz/Pfeffer
 
-### Anleitung
+### Zubereitung
 - Spargel waschen, die holzigen Enden abschneiden und in mundgerechte Stücke schneiden.
 - Knoblauch schälen und fein hacken.
 - Gemüsebrühe in Wasser lösen und Zitronenschale abreiben und anschließend auspressen.
