@@ -1,5 +1,5 @@
 # code-of-cooking
-code-of-cooking ist ein einfaches manuell geführtes veganes Kochbuch.
+code-of-cooking ist ein einfaches und manuell geführtes veganes Kochbuch.
 
 English version will maybe follow soonish TM.
 
