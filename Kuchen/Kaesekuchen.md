@@ -18,9 +18,8 @@
 - Mehl, Backpulver, 125g Margarine, 80g Zucker, Salz und 3 EL kaltes Wasser zu einem Teig verkneten.
 - Teig in Frischhaltefolie einwickeln und ca. 30 Minuten in den Kühlschrank legen.
 **Füllung**
-- Sojajoghurt mit 150g Zucker, abgeriebener Zitronenschale und Puddingpulver gut verrühren.
+- Sojajoghurt mit 150g Zucker, abgeriebener Zitronenschale, Rosinen und Puddingpulver gut verrühren.
 - 125g Margarine schmelzen und in die Sojajoghurt-Mischung geben.
-
 - Ein Springform fetten und den Teig darin gleichmäßig verteilen und einen ca. 3cm hohen Rand bilden.
 - Sojajoghurt-Mischung in die Form füllen.
 - Den Kuchen in den vorgeheizten Backofen bei 180°C Ober-/Unterhitze für ca. 60 Minuten goldgelb backen.
